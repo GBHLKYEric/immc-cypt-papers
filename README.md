@@ -1,6 +1,15 @@
-# IMMC 论文与 CYPT 海报
+# 实习项目、IMMC 论文与 CYPT 海报
 
-刘开颜（澳门培正中学）参加国际数学建模挑战赛（IMMC）的四篇团队论文，以及中国高中生青年物理学家交流会（CYPT）海报沙龙的参展海报。
+刘开颜（澳门培正中学）申请材料中提到的实习项目代码与实验报告、国际数学建模挑战赛（IMMC）的四篇团队论文，以及中国高中生青年物理学家交流会（CYPT）海报沙龙的参展海报，都可以从这一页打开。
+
+## 实习项目
+
+| 内容 | 链接 |
+|---|---|
+| 实习项目《人脸识别与特效技术》代码 | [face-vision-ai 代码仓库](https://github.com/GBHLKYEric/face-vision-ai) |
+| 实习项目实验报告 | [docs/REPORT.md](https://github.com/GBHLKYEric/face-vision-ai/blob/main/docs/REPORT.md) |
+
+## 论文与海报
 
 | 目录 | 内容 | 奖项 |
 |---|---|---|
